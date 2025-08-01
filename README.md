@@ -5,7 +5,7 @@
 
 This Python project implements a simple yet secure user authentication system using a custom key generation algorithm (`KS-KEY`) and a One-Time Password (OTP) verification step.
 
-## Features
+##Features
 
 - **Custom Key-Based Password Hashing:**  
   Uses a unique binary transformation (`KS-KEY algorithm`) to generate a secure key from user-provided passwords.
